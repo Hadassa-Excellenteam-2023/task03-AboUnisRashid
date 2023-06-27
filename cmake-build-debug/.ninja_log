@@ -1,0 +1,11 @@
+# ninja log v5
+0	461	1687868875967219161	CMakeFiles/PriorityQueue.dir/src/Dog.cpp.o	d588345327dbe6a5
+7	357	1687868915733608120	CMakeFiles/PriorityQueue.dir/src/PriorityQueue.cpp.o	298ec35662cb2c08
+7	409	1687868915786519703	CMakeFiles/PriorityQueue.dir/src/main.cpp.o	5bf0333ceff0acd3
+409	446	1687868915825505828	PriorityQueue	300d56a73bc45a4f
+7	461	1687869006668940161	CMakeFiles/PriorityQueue.dir/src/PriorityQueue.cpp.o	298ec35662cb2c08
+7	518	1687869006727330911	CMakeFiles/PriorityQueue.dir/src/main.cpp.o	5bf0333ceff0acd3
+518	562	1687869006774156745	PriorityQueue	300d56a73bc45a4f
+7	404	1687869172466727161	CMakeFiles/PriorityQueue.dir/src/PriorityQueue.cpp.o	298ec35662cb2c08
+7	447	1687869172510695578	CMakeFiles/PriorityQueue.dir/src/main.cpp.o	5bf0333ceff0acd3
+448	485	1687869172549715703	PriorityQueue	300d56a73bc45a4f
